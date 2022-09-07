@@ -14,6 +14,8 @@ Mensaje cuando se ejecuta el main.py
 
 <img width="577" alt="Captura de Pantalla 2022-09-06 a las 16 06 35" src="https://user-images.githubusercontent.com/90271858/188656360-2a3a4a35-5027-4f8e-bdb2-4918e165e05a.png">
 
+Se consigue que el sistema abra el whatsapp, si tenemos whatsapp web enlazado con nuestro ordenador, pero se sigue mirando como podemos hacer que se mande el mensaje automaticamente sin tener que presionar la tecla "Enviar"
+
 
 
 
